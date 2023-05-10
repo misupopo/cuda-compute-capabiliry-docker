@@ -15,7 +15,6 @@ RUN apt-get update -y && apt-get upgrade -y && apt-get install -y \
     libssl-dev \
     libgtk-3-dev \
     libcurl4-openssl-dev \
-    python-pip \
     python3-pip \
     python3-dev \
     tzdata \
